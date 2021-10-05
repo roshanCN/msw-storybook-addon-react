@@ -20,7 +20,7 @@ Launches the Storybook.
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+You can learn more about [Mock Service Worker](https://storybook.js.org/addons/msw-storybook-addon).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
@@ -47,4 +47,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# msw-storybook-addon-react
